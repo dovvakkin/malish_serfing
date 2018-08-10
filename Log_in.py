@@ -1,6 +1,7 @@
 from time import sleep
 from driver import driver
 
+
 VK_LOGIN = '89258396534'
 VK_PASSWORD = 'k0zhepnin@'
 
@@ -24,13 +25,23 @@ def serfing_login():
     driver.get("https://vkserfing.ru")
     login = driver.find_element_by_xpath("/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/a[1]")
     login.click()
-    sleep(5)
-    driver.find_element_by_xpath("/html/body/div[6]/table/tbody/tr/td/div/div").click()
+    sleep(3)
+    try:
+        driver.find_element_by_xpath("/html/body/div[6]/table/tbody/tr/td/div/div").click()
+    except:
+        sleep(10)
+        driver.find_element_by_xpath("/html/body/div[6]/table/tbody/tr/td/div/div").click()
 
 
 def general_login():
-    vk_login()
-    serfing_login()
+    try:
+        vk_login()
+    except:
+        pass
+    try:
+        serfing_login()
+    except:
+        pass
 
 
 if __name__ == "__main__":
