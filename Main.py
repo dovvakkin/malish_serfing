@@ -28,7 +28,6 @@ def task_performer(task, handler_function):
             link.hitroClick()
             break
         except selenium.common.exceptions.MoveTargetOutOfBoundsException:
-            print(type(driver))
             driver.triple_scroll()
 
     driver.switch_to.window(driver.window_handles[-1])
@@ -59,25 +58,25 @@ def scan_tasks():  # parse target for all tasks
             task_performer(task, vk_handler.join_group)
         elif str(task.find_element_by_xpath(".//span").text).startswith("Добавить в друзья"):
             task_performer(task, vk_handler.add_to_friends)
-        # elif str(task.find_element_by_xpath(".//span").text).startswith("Рассказать друзьям"):
-        #     task_performer(task, vk_handler.make_repost)
+        elif str(task.find_element_by_xpath(".//span").text).startswith("Рассказать друзьям"):
+            task_performer(task, vk_handler.make_repost)
 
 
+def bot_life(login, password):
+    # webdriverTUNING
+    selenium.webdriver.firefox.webelement.FirefoxWebElement.hitroClick = hitroClick
+    selenium.webdriver.firefox.webdriver.WebDriver.triple_scroll = triple_scroll
+    # end of webdriverTUNING
 
-# webdriverTUNING
-selenium.webdriver.firefox.webelement.FirefoxWebElement.hitroClick = hitroClick
-selenium.webdriver.firefox.webdriver.WebDriver.triple_scroll = triple_scroll
-# end of webdriverTUNING
-
-counter = 0
-while True:
-    if counter < 10:
-        try:
-            general_login()
-            scan_tasks()
-            logging.info('выход на охоту: '+str(datetime.now().strftime('%Y_%m_%d_%H:%M:%S')))
-        except Exception as e:
-            error = str('!!!выход провален: ' + str(datetime.now().strftime('%Y_%m_%d_%H:%M:%S'))+'\n'+str(e))
-            logging.error(error)
-    counter = (counter + 1) % 14 # burnaya noch' simulation
-    sleep(60 * random.uniform(61, 75))  # чтоб типа как человек
+    counter = 0
+    while True:
+        if counter < 10:
+            try:
+                general_login(login, password)
+                scan_tasks()
+                logging.info('выход на охоту: '+str(datetime.now().strftime('%Y_%m_%d_%H:%M:%S')))
+            except Exception as e:
+                error = str('!!!выход провален: ' + str(datetime.now().strftime('%Y_%m_%d_%H:%M:%S'))+'\n'+str(e))
+                logging.error(error)
+        counter = (counter + 1) % 14  # burnaya noch' simulation
+        sleep(60 * random.uniform(61, 75))  # чтоб типа как человек

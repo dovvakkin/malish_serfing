@@ -9,13 +9,13 @@ TARGET_LOGIN = "MariaKozevnikov@gmail.com"
 TARGET_PASSWORD = "k0zhepnin@"
 
 
-def vk_login():
+def vk_login(login, password):
     driver.get("https://m.vk.com/")
     text_area = driver.find_element_by_name('email')
-    text_area.send_keys(VK_LOGIN)
+    text_area.send_keys(login)
 
     text_area = driver.find_element_by_name('pass')
-    text_area.send_keys(VK_PASSWORD)
+    text_area.send_keys(password)
 
     submit = driver.find_element_by_class_name("fi_row_new")
     submit.click()
@@ -33,9 +33,9 @@ def serfing_login():
         driver.find_element_by_xpath("/html/body/div[6]/table/tbody/tr/td/div/div").click()
 
 
-def general_login():
+def general_login(login, password):
     try:
-        vk_login()
+        vk_login(login, password)
     except:
         pass
     try:
