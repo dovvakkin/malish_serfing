@@ -20,9 +20,31 @@ def hitroClick(self):
     link_presser.move_to_element_with_offset(self, 2, 2).click().perform()
 
 
-def double_scroll(self):
+def task_performer(task, handler_function):
+    link = task.find_element_by_xpath(".//a[1]")
+    for i in range(20):
+        try:
+            sleep(2)
+            link.hitroClick()
+            break
+        except selenium.common.exceptions.MoveTargetOutOfBoundsException:
+            print(type(driver))
+            driver.triple_scroll()
+
+    driver.switch_to.window(driver.window_handles[-1])
+    handler_function(driver)
+    sleep(1)
+    driver.close()
+    driver.switch_to.window(driver.window_handles[0])
+
+    link = task.find_element_by_xpath(".//a[2]")
+    link.hitroClick()
+    sleep(2)
+
+
+def triple_scroll(self):
     scroll_action = ActionChains(self)
-    scroll_action.key_down(Keys.UP).key_up(Keys.UP).key_down(Keys.UP).key_up(Keys.UP).perform()
+    scroll_action.key_down(Keys.UP).key_up(Keys.UP).key_down(Keys.UP).key_up(Keys.UP).key_down(Keys.UP).key_up(Keys.UP).perform()
 
 
 def scan_tasks():  # parse target for all tasks
@@ -34,54 +56,17 @@ def scan_tasks():  # parse target for all tasks
 
     for task in reversed(task_list):
         if str(task.find_element_by_xpath(".//span").text).startswith("Вступить в сообщество"):
-
-            link = task.find_element_by_xpath(".//a[1]")
-            for i in range(20):
-                try:
-                    sleep(2)
-                    link.hitroClick()
-                    break
-                except selenium.common.exceptions.MoveTargetOutOfBoundsException:
-                    driver.double_scroll()
-
-            driver.switch_to.window(driver.window_handles[-1])
-            vk_handler.join_group(driver)
-            sleep(1)
-            driver.close()
-            driver.switch_to.window(driver.window_handles[0])
-
-            link = task.find_element_by_xpath(".//a[2]")
-            link.hitroClick()
-            sleep(2)
-
-            #TODO:
-
-
-        if str(task.find_element_by_xpath(".//span").text).startswith("Добавить в друзья"):
-            link = task.find_element_by_xpath(".//a[1]")
-            for i in range(20):
-                try:
-                    sleep(2)
-                    link.hitroClick()
-                    break
-                except selenium.common.exceptions.MoveTargetOutOfBoundsException:
-                    driver.double_scroll()
-
-            driver.switch_to.window(driver.window_handles[-1])
-            vk_handler.add_to_friends(driver)
-            sleep(3)
-            driver.close()
-            driver.switch_to.window(driver.window_handles[0])
-
-            link = task.find_element_by_xpath(".//a[2]")
-            link.hitroClick()
-            sleep(3)
+            task_performer(task, vk_handler.join_group)
+        elif str(task.find_element_by_xpath(".//span").text).startswith("Добавить в друзья"):
+            task_performer(task, vk_handler.add_to_friends)
+        # elif str(task.find_element_by_xpath(".//span").text).startswith("Рассказать друзьям"):
+        #     task_performer(task, vk_handler.make_repost)
 
 
 
 # webdriverTUNING
 selenium.webdriver.firefox.webelement.FirefoxWebElement.hitroClick = hitroClick
-selenium.webdriver.firefox.webelement.FirefoxWebElement.double_scroll = double_scroll
+selenium.webdriver.firefox.webdriver.WebDriver.triple_scroll = triple_scroll
 # end of webdriverTUNING
 
 counter = 0
@@ -92,7 +77,7 @@ while True:
             scan_tasks()
             logging.info('выход на охоту: '+str(datetime.now().strftime('%Y_%m_%d_%H:%M:%S')))
         except Exception as e:
-            error = str('!!!выход провален: ' + str(datetime.now().strftime('%Y_%m_%d_%H:%M:%S'))+'\n'+e)
+            error = str('!!!выход провален: ' + str(datetime.now().strftime('%Y_%m_%d_%H:%M:%S'))+'\n'+str(e))
             logging.error(error)
     counter = (counter + 1) % 14 # burnaya noch' simulation
     sleep(60 * random.uniform(61, 75))  # чтоб типа как человек
