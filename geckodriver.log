@@ -13518,3 +13518,520 @@ JavaScript error: https://ulogin.ru/auth.php?name=vkontakte&code=60aa0714e63badb
 [Child 21263, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 21346, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534064475516	geckodriver	INFO	geckodriver 0.21.0
+1534064475518	geckodriver	INFO	geckodriver 0.21.0
+1534064475537	geckodriver	INFO	Listening on 127.0.0.1:53489
+1534064475543	geckodriver	INFO	Listening on 127.0.0.1:53488
+1534064475546	geckodriver	INFO	geckodriver 0.21.0
+1534064475552	geckodriver	INFO	geckodriver 0.21.0
+1534064475560	geckodriver	INFO	Listening on 127.0.0.1:53492
+1534064475563	geckodriver	INFO	geckodriver 0.21.0
+1534064475569	geckodriver	INFO	geckodriver 0.21.0
+1534064475581	geckodriver	INFO	Listening on 127.0.0.1:53493
+1534064475582	geckodriver	INFO	Listening on 127.0.0.1:53490
+1534064475584	geckodriver	INFO	Listening on 127.0.0.1:53491
+1534064475593	geckodriver	INFO	geckodriver 0.21.0
+1534064475602	geckodriver	INFO	geckodriver 0.21.0
+1534064475608	geckodriver	INFO	Listening on 127.0.0.1:53494
+1534064475617	geckodriver	INFO	Listening on 127.0.0.1:53495
+1534064475623	geckodriver	INFO	geckodriver 0.21.0
+1534064475637	geckodriver	INFO	Listening on 127.0.0.1:53506
+1534064475646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.k8K1hqFykRgW"
+1534064475649	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.mWG5989GqOeu"
+1534064475664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.4TC0oXSa4566"
+1534064475668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.d34VSna9l6g2"
+1534064475671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.SbvHUNh5YC9O"
+1534064475687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.OyP58pMiMuK8"
+1534064475789	geckodriver	INFO	geckodriver 0.21.0
+1534064475835	geckodriver	INFO	Listening on 127.0.0.1:53539
+1534064475875	geckodriver	INFO	geckodriver 0.21.0
+1534064475889	geckodriver	INFO	geckodriver 0.21.0
+1534064475903	geckodriver	INFO	Listening on 127.0.0.1:53550
+1534064475903	geckodriver	INFO	geckodriver 0.21.0
+1534064475920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.mdvVSAgJ5vQh"
+1534064475921	geckodriver	INFO	Listening on 127.0.0.1:53556
+1534064475945	geckodriver	INFO	geckodriver 0.21.0
+1534064475951	geckodriver	INFO	geckodriver 0.21.0
+1534064475958	geckodriver	INFO	Listening on 127.0.0.1:53561
+1534064475962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.eOy4RuQROArE"
+1534064475977	geckodriver	INFO	geckodriver 0.21.0
+1534064475992	geckodriver	INFO	Listening on 127.0.0.1:53576
+1534064475999	geckodriver	INFO	geckodriver 0.21.0
+1534064476005	geckodriver	INFO	Listening on 127.0.0.1:53546
+1534064476017	geckodriver	INFO	Listening on 127.0.0.1:53568
+1534064476018	geckodriver	INFO	geckodriver 0.21.0
+1534064476033	geckodriver	INFO	geckodriver 0.21.0
+1534064476044	geckodriver	INFO	geckodriver 0.21.0
+1534064476053	geckodriver	INFO	Listening on 127.0.0.1:53583
+1534064476054	geckodriver	INFO	Listening on 127.0.0.1:53582
+1534064476054	geckodriver	INFO	Listening on 127.0.0.1:53589
+1534064476058	geckodriver	INFO	geckodriver 0.21.0
+1534064476066	geckodriver	INFO	Listening on 127.0.0.1:53595
+1534064476088	geckodriver	INFO	geckodriver 0.21.0
+1534064476116	geckodriver	INFO	Listening on 127.0.0.1:53599
+1534064476119	geckodriver	INFO	Listening on 127.0.0.1:53602
+1534064476123	geckodriver	INFO	geckodriver 0.21.0
+1534064476138	geckodriver	INFO	geckodriver 0.21.0
+1534064476140	geckodriver	INFO	Listening on 127.0.0.1:53606
+1534064476150	geckodriver	INFO	geckodriver 0.21.0
+1534064476153	geckodriver	INFO	Listening on 127.0.0.1:53612
+1534064476163	geckodriver	INFO	Listening on 127.0.0.1:53617
+1534064476191	geckodriver	INFO	geckodriver 0.21.0
+1534064476210	geckodriver	INFO	Listening on 127.0.0.1:53622
+1534064476211	geckodriver	INFO	geckodriver 0.21.0
+1534064476233	geckodriver	INFO	geckodriver 0.21.0
+1534064476250	geckodriver	INFO	Listening on 127.0.0.1:53629
+1534064476259	geckodriver	INFO	geckodriver 0.21.0
+1534064476271	geckodriver	INFO	Listening on 127.0.0.1:53637
+1534064476285	geckodriver	INFO	geckodriver 0.21.0
+1534064476306	geckodriver	INFO	geckodriver 0.21.0
+1534064476311	geckodriver	INFO	Listening on 127.0.0.1:53641
+1534064476314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.JX7NAZRjcHJ1"
+1534064476322	geckodriver	INFO	Listening on 127.0.0.1:53643
+1534064476316	geckodriver	INFO	geckodriver 0.21.0
+1534064476335	geckodriver	INFO	Listening on 127.0.0.1:53651
+1534064476337	geckodriver	INFO	Listening on 127.0.0.1:53626
+1534064476336	geckodriver	INFO	geckodriver 0.21.0
+1534064476350	geckodriver	INFO	geckodriver 0.21.0
+1534064476359	geckodriver	INFO	geckodriver 0.21.0
+1534064476365	geckodriver	INFO	Listening on 127.0.0.1:53660
+1534064476375	geckodriver	INFO	Listening on 127.0.0.1:53667
+1534064476377	geckodriver	INFO	geckodriver 0.21.0
+1534064476402	geckodriver	INFO	geckodriver 0.21.0
+1534064476410	geckodriver	INFO	geckodriver 0.21.0
+1534064476422	geckodriver	INFO	Listening on 127.0.0.1:53676
+1534064476425	geckodriver	INFO	Listening on 127.0.0.1:53657
+1534064476427	geckodriver	INFO	Listening on 127.0.0.1:53673
+1534064476428	geckodriver	INFO	Listening on 127.0.0.1:53670
+1534064476707	geckodriver	INFO	geckodriver 0.21.0
+1534064476726	geckodriver	INFO	Listening on 127.0.0.1:53704
+1534064476770	geckodriver	INFO	geckodriver 0.21.0
+1534064476802	geckodriver	INFO	Listening on 127.0.0.1:53715
+1534064476885	geckodriver	INFO	geckodriver 0.21.0
+1534064476902	geckodriver	INFO	Listening on 127.0.0.1:53726
+1534064476908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.Xyfat0LsJxRo"
+1534064476951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.MuCnxoW2Hkuu"
+1534064476955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.OSEUmizogMX6"
+1534064477027	geckodriver	INFO	geckodriver 0.21.0
+1534064477044	geckodriver	INFO	Listening on 127.0.0.1:53750
+1534064477149	geckodriver	INFO	geckodriver 0.21.0
+1534064477334	geckodriver	INFO	Listening on 127.0.0.1:53758
+1534064477540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.g7ePLTK393Cs"
+1534064477540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.RiZTk5rl12fd"
+1534064477411	geckodriver	INFO	geckodriver 0.21.0
+1534064477562	geckodriver	INFO	Listening on 127.0.0.1:53771
+1534064477906	geckodriver	INFO	geckodriver 0.21.0
+1534064478140	geckodriver	INFO	Listening on 127.0.0.1:53832
+1534064478162	geckodriver	INFO	geckodriver 0.21.0
+1534064478177	geckodriver	INFO	geckodriver 0.21.0
+1534064478202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ZQBsKkDkJeUJ"
+1534064478233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.fN7kTs2kNO0Y"
+1534064478234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.7oPnB5KJk6Nf"
+1534064478236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.mugGRAegwU65"
+1534064478242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.fgDbSMiSxsO2"
+1534064478243	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.lPbJGReWw947"
+1534064478248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.B08sxyzE8Aqd"
+1534064478447	geckodriver	INFO	Listening on 127.0.0.1:53888
+1534064478450	geckodriver	INFO	Listening on 127.0.0.1:53887
+1534064478468	geckodriver	INFO	geckodriver 0.21.0
+1534064478497	geckodriver	INFO	geckodriver 0.21.0
+1534064478521	geckodriver	INFO	Listening on 127.0.0.1:54001
+1534064478530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.LfUpWr9WHais"
+1534064478579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.c6DW3fOtnumm"
+1534064478580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.g8QkUihRmt8y"
+1534064478586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.S2t2jF3E2O6y"
+1534064478597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.3xbMtx91QO8y"
+1534064478690	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ajhWcAct0u70"
+1534064478711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.NTkc1OjWaRUJ"
+1534064478752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.8XOKrTjUaHsL"
+1534064478764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ZObkVfDOU95a"
+1534064478791	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.mL82UVf5bzDi"
+1534064478547	geckodriver	INFO	geckodriver 0.21.0
+1534064479033	geckodriver	INFO	Listening on 127.0.0.1:54035
+1534064479039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.4DzoTEdeM1zO"
+1534064479095	geckodriver	INFO	Listening on 127.0.0.1:53983
+1534064479757	geckodriver	INFO	geckodriver 0.21.0
+1534064479780	geckodriver	INFO	Listening on 127.0.0.1:54133
+1534064479897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.GtkOrpzD46R0"
+1534064480157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.sptMtyRSiHHO"
+1534064480254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.3drpVBfmtP29"
+1534064480261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.432qvZVq0a89"
+1534064480289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.hGKXWYnR7FQD"
+1534064480292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.rqzsYWtGSp80"
+1534064480319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.TIU7o5TjlAAQ"
+1534064480328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.32PomsOxgmzk"
+1534064480329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.upRgXo8tggEl"
+1534064479783	geckodriver	INFO	geckodriver 0.21.0
+1534064480373	geckodriver	INFO	Listening on 127.0.0.1:54331
+1534064479801	geckodriver	INFO	geckodriver 0.21.0
+1534064480388	geckodriver	INFO	Listening on 127.0.0.1:54346
+1534064480538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.GLF2emlwIIgE"
+1534064480644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.EDNePTmJCGea"
+1534064480242	geckodriver	INFO	geckodriver 0.21.0
+1534064480677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.zZVUUWIfiVMW"
+1534064480783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.B8X49xrg40HQ"
+1534064480872	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.1IvRmQsUUXl6"
+1534064480297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.CaWI40hRlAEk"
+1534064480884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.uUt1Dut5QrKq"
+1534064481009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.m4SrNLr6cP6O"
+1534064481068	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.YcKvUnxJCdNg"
+1534064481129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.JrqHgXQpQzLy"
+1534064480425	geckodriver	INFO	geckodriver 0.21.0
+1534064480411	geckodriver	INFO	geckodriver 0.21.0
+1534064481086	geckodriver	INFO	geckodriver 0.21.0
+1534064481147	geckodriver	INFO	Listening on 127.0.0.1:54486
+1534064481434	geckodriver	INFO	Listening on 127.0.0.1:54394
+1534064481480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.0gs0Qw1DmEfM"
+1534064481468	geckodriver	INFO	geckodriver 0.21.0
+1534064481446	geckodriver	INFO	geckodriver 0.21.0
+1534064481493	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.7NJApmaD8wMe"
+1534064481485	geckodriver	INFO	geckodriver 0.21.0
+1534064481549	geckodriver	INFO	Listening on 127.0.0.1:54609
+1534064481705	geckodriver	INFO	Listening on 127.0.0.1:54474
+1534064481786	geckodriver	INFO	Listening on 127.0.0.1:54510
+1534064482049	geckodriver	INFO	Listening on 127.0.0.1:54501
+1534064481531	geckodriver	INFO	geckodriver 0.21.0
+1534064481553	geckodriver	INFO	geckodriver 0.21.0
+1534064482152	geckodriver	INFO	Listening on 127.0.0.1:54620
+1534064482156	geckodriver	INFO	Listening on 127.0.0.1:54656
+1534064482108	geckodriver	INFO	geckodriver 0.21.0
+1534064482171	geckodriver	INFO	Listening on 127.0.0.1:54777
+1534064482252	geckodriver	INFO	Listening on 127.0.0.1:54512
+1534064481906	geckodriver	INFO	geckodriver 0.21.0
+1534064481988	geckodriver	INFO	geckodriver 0.21.0
+1534064482239	geckodriver	INFO	geckodriver 0.21.0
+1534064483010	geckodriver	INFO	Listening on 127.0.0.1:54782
+1534064483077	geckodriver	INFO	Listening on 127.0.0.1:54673
+1534064483569	geckodriver	INFO	Listening on 127.0.0.1:54775
+1534064483655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.8JM2qxoTfoou"
+1534064483035	geckodriver	INFO	geckodriver 0.21.0
+1534064484105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.AnohUasEtKMS"
+1534064484115	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.e5WC5oHVnhQf"
+1534064484162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.iGhrfgA6c0mD"
+1534064484162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.YWowdOkDWZfq"
+1534064484167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.vNmGacOVpEZz"
+1534064484170	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.F4G2mSRWjM15"
+1534064484171	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.uLxKUWvbYmRy"
+1534064484534	geckodriver	INFO	Listening on 127.0.0.1:54785
+1534064484802	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.DYqFmF2COCnR"
+1534064484803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.piI9vlpIFY8y"
+1534064484807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.nhLW0UceusJl"
+1534064485506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.FEKx9BitggIK"
+1534064485508	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ckH6ai9IZpjN"
+1534064485831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.FgMMB0u4PW91"
+1534064484132	geckodriver	INFO	geckodriver 0.21.0
+1534064484094	geckodriver	INFO	geckodriver 0.21.0
+1534064485854	geckodriver	INFO	Listening on 127.0.0.1:54799
+1534064485856	geckodriver	INFO	Listening on 127.0.0.1:54930
+1534064484787	geckodriver	INFO	geckodriver 0.21.0
+1534064485009	geckodriver	INFO	geckodriver 0.21.0
+1534064485036	geckodriver	INFO	geckodriver 0.21.0
+1534064485225	geckodriver	INFO	geckodriver 0.21.0
+1534064485896	geckodriver	INFO	Listening on 127.0.0.1:54956
+1534064485897	geckodriver	INFO	Listening on 127.0.0.1:55106
+1534064485897	geckodriver	INFO	Listening on 127.0.0.1:55095
+1534064485837	geckodriver	INFO	geckodriver 0.21.0
+1534064485475	geckodriver	INFO	geckodriver 0.21.0
+1534064485509	geckodriver	INFO	geckodriver 0.21.0
+1534064485462	geckodriver	INFO	geckodriver 0.21.0
+1534064486453	geckodriver	INFO	Listening on 127.0.0.1:55298
+1534064486653	geckodriver	INFO	Listening on 127.0.0.1:55102
+1534064486899	geckodriver	INFO	Listening on 127.0.0.1:55303
+1534064486969	geckodriver	INFO	Listening on 127.0.0.1:55288
+1534064487171	geckodriver	INFO	Listening on 127.0.0.1:55158
+1534064486771	geckodriver	INFO	geckodriver 0.21.0
+1534064486164	geckodriver	INFO	geckodriver 0.21.0
+1534064487632	geckodriver	INFO	Listening on 127.0.0.1:55375
+1534064486180	geckodriver	INFO	geckodriver 0.21.0
+1534064487633	geckodriver	INFO	Listening on 127.0.0.1:55385
+1534064487667	geckodriver	INFO	Listening on 127.0.0.1:55380
+1534064486112	geckodriver	INFO	geckodriver 0.21.0
+1534064487688	geckodriver	INFO	Listening on 127.0.0.1:55372
+1534064487996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.JXqpdaZC9JHp"
+1534064486642	geckodriver	INFO	geckodriver 0.21.0
+1534064489399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.UBGXX5zFuyPG"
+1534064489414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.Jr91CBskgoW4"
+1534064489418	geckodriver	INFO	Listening on 127.0.0.1:55382
+1534064488459	geckodriver	INFO	geckodriver 0.21.0
+1534064489737	geckodriver	INFO	Listening on 127.0.0.1:55387
+1534064488659	geckodriver	INFO	geckodriver 0.21.0
+1534064489784	geckodriver	INFO	Listening on 127.0.0.1:55411
+1534064488492	geckodriver	INFO	geckodriver 0.21.0
+1534064488539	geckodriver	INFO	geckodriver 0.21.0
+1534064489803	geckodriver	INFO	Listening on 127.0.0.1:55410
+1534064490559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.1eP5KJBMu1JL"
+1534064490591	geckodriver	INFO	Listening on 127.0.0.1:55655
+1534064490664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.VTdq5sh6KI2y"
+1534064490673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.eDBG9iXQzXHq"
+1534064490673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.nLgtHhLOmgdU"
+1534064490679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.EDeVB0kqC655"
+1534064490681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.NPfsXEkrMI36"
+1534064490547	geckodriver	INFO	geckodriver 0.21.0
+1534064490628	geckodriver	INFO	geckodriver 0.21.0
+1534064491534	geckodriver	INFO	Listening on 127.0.0.1:55927
+1534064492090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.qWWnsiv71MBi"
+1534064492130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.mVauJDqpaHSj"
+1534064492143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.dbC4FpipO6bT"
+1534064492146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.pb69Cf5OFgKd"
+1534064492147	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.9uINSSnQ4N9m"
+1534064492337	geckodriver	INFO	Listening on 127.0.0.1:55663
+1534064492998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.SA61X35U7lEJ"
+1534064493000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.DFGxvuzru4yC"
+1534064493060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.Iw4C8atBA3Ri"
+1534064493067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.bm8u8jhypqCG"
+1534064493227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.kOCSu8kPEW5F"
+1534064493546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.WNDvkOSmY6Fx"
+1534064491540	geckodriver	INFO	geckodriver 0.21.0
+1534064494369	geckodriver	INFO	Listening on 127.0.0.1:55951
+1534064492114	geckodriver	INFO	geckodriver 0.21.0
+1534064492771	geckodriver	INFO	geckodriver 0.21.0
+1534064494766	geckodriver	INFO	Listening on 127.0.0.1:55974
+1534064494785	geckodriver	INFO	Listening on 127.0.0.1:56172
+1534064493502	geckodriver	INFO	geckodriver 0.21.0
+1534064493036	geckodriver	INFO	geckodriver 0.21.0
+1534064493526	geckodriver	INFO	geckodriver 0.21.0
+1534064495102	geckodriver	INFO	Listening on 127.0.0.1:56264
+1534064493674	geckodriver	INFO	geckodriver 0.21.0
+1534064493618	geckodriver	INFO	geckodriver 0.21.0
+1534064495818	geckodriver	INFO	Listening on 127.0.0.1:56242
+1534064495939	geckodriver	INFO	Listening on 127.0.0.1:56258
+1534064493870	geckodriver	INFO	geckodriver 0.21.0
+1534064496431	geckodriver	INFO	Listening on 127.0.0.1:56366
+1534064496443	geckodriver	INFO	Listening on 127.0.0.1:56457
+1534064496780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.T1UIWP88a54K"
+1534064493933	geckodriver	INFO	geckodriver 0.21.0
+1534064494130	geckodriver	INFO	geckodriver 0.21.0
+1534064496818	geckodriver	INFO	Listening on 127.0.0.1:56462
+1534064494630	geckodriver	INFO	geckodriver 0.21.0
+1534064496928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.OhCSeRu7G8a6"
+1534064496929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.d7eN6NEoLAan"
+1534064497077	geckodriver	INFO	Listening on 127.0.0.1:56459
+1534064494661	geckodriver	INFO	geckodriver 0.21.0
+1534064497675	geckodriver	INFO	Listening on 127.0.0.1:56521
+1534064497693	geckodriver	INFO	Listening on 127.0.0.1:56524
+1534064497695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.9lMYbnVzYud3"
+1534064498135	geckodriver	INFO	Listening on 127.0.0.1:56528
+1534064495162	geckodriver	INFO	geckodriver 0.21.0
+1534064498570	geckodriver	INFO	Listening on 127.0.0.1:56532
+1534064498800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.PJOQCz8sscz1"
+1534064495185	geckodriver	INFO	geckodriver 0.21.0
+1534064495813	geckodriver	INFO	geckodriver 0.21.0
+1534064499255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.J016jZKBtDoe"
+1534064499306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.po8Rfhe3TWa9"
+1534064499307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.fSiAa1Fu9Sbf"
+1534064499307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.jMXqg1iNrR9g"
+1534064499307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.7yBYz6FKdJpj"
+1534064499307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.2ek8beOFuvzk"
+1534064496766	geckodriver	INFO	geckodriver 0.21.0
+1534064499463	geckodriver	INFO	Listening on 127.0.0.1:56541
+1534064499512	geckodriver	INFO	Listening on 127.0.0.1:56806
+1534064496861	geckodriver	INFO	geckodriver 0.21.0
+1534064497140	geckodriver	INFO	geckodriver 0.21.0
+1534064499599	geckodriver	INFO	Listening on 127.0.0.1:56807
+1534064499822	geckodriver	INFO	Listening on 127.0.0.1:56549
+1534064499826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.sRVwJ6a0Kfmg"
+1534064500028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.7MVKObbY6bAl"
+1534064500030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.HmhPI1vKL62h"
+1534064500173	geckodriver	INFO	Listening on 127.0.0.1:56802
+1534064497634	geckodriver	INFO	geckodriver 0.21.0
+1534064500669	geckodriver	INFO	Listening on 127.0.0.1:56816
+1534064497883	geckodriver	INFO	geckodriver 0.21.0
+1534064501230	geckodriver	INFO	Listening on 127.0.0.1:56877
+1534064501318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.O6CMwWGkxetQ"
+1534064501580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.tOhuKknb3AnT"
+1534064498197	geckodriver	INFO	geckodriver 0.21.0
+1534064499030	geckodriver	INFO	geckodriver 0.21.0
+1534064501770	geckodriver	INFO	Listening on 127.0.0.1:57094
+1534064499111	geckodriver	INFO	geckodriver 0.21.0
+1534064502409	geckodriver	INFO	Listening on 127.0.0.1:57093
+1534064499819	geckodriver	INFO	geckodriver 0.21.0
+1534064502431	geckodriver	INFO	Listening on 127.0.0.1:57080
+1534064502436	geckodriver	INFO	Listening on 127.0.0.1:57200
+1534064502470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.NcMo4dQYtWRV"
+1534064502473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ZUrw9Xs3UWXz"
+1534064502489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.74cO6sXdo2uf"
+1534064499984	geckodriver	INFO	geckodriver 0.21.0
+1534064502894	geckodriver	INFO	Listening on 127.0.0.1:57374
+1534064500999	geckodriver	INFO	geckodriver 0.21.0
+1534064503315	geckodriver	INFO	Listening on 127.0.0.1:57390
+1534064503799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.y2sjDVUZzOJP"
+1534064501613	geckodriver	INFO	geckodriver 0.21.0
+1534064504161	geckodriver	INFO	Listening on 127.0.0.1:57405
+1534064501613	geckodriver	INFO	geckodriver 0.21.0
+1534064504178	geckodriver	INFO	Listening on 127.0.0.1:57392
+1534064504366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.EfA1m2QRDT0x"
+1534064504510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.nzYQRXCLHRrt"
+1534064504559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.7IlYgEGMWAcQ"
+1534064504988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.xsG8m2lws6Fh"
+1534064504992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.9YunsU5F7IUl"
+1534064505009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.DTrwI0QZYgzu"
+1534064501649	geckodriver	INFO	geckodriver 0.21.0
+1534064505120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.sJPmIFbIZuB2"
+1534064505136	geckodriver	INFO	Listening on 127.0.0.1:57418
+1534064501970	geckodriver	INFO	geckodriver 0.21.0
+1534064505859	geckodriver	INFO	Listening on 127.0.0.1:57565
+1534064506715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.jgcG978tZ2Cj"
+1534064502642	geckodriver	INFO	geckodriver 0.21.0
+1534064507027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.MFSDTufFhQuG"
+1534064503529	geckodriver	INFO	geckodriver 0.21.0
+1534064503674	geckodriver	INFO	geckodriver 0.21.0
+1534064507074	geckodriver	INFO	Listening on 127.0.0.1:57679
+1534064507086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.Ivx7Dw2HxVNB"
+1534064507651	geckodriver	INFO	Listening on 127.0.0.1:57677
+1534064507738	geckodriver	INFO	Listening on 127.0.0.1:57691
+1534064503913	geckodriver	INFO	geckodriver 0.21.0
+1534064503689	geckodriver	INFO	geckodriver 0.21.0
+1534064507919	geckodriver	INFO	Listening on 127.0.0.1:57723
+1534064507947	geckodriver	INFO	Listening on 127.0.0.1:57710
+1534064505094	geckodriver	INFO	geckodriver 0.21.0
+1534064505106	geckodriver	INFO	geckodriver 0.21.0
+1534064511140	geckodriver	INFO	Listening on 127.0.0.1:57965
+1534064505105	geckodriver	INFO	geckodriver 0.21.0
+1534064512064	geckodriver	INFO	Listening on 127.0.0.1:57972
+1534064512199	geckodriver	INFO	Listening on 127.0.0.1:57974
+1534064505353	geckodriver	INFO	geckodriver 0.21.0
+1534064506722	geckodriver	INFO	geckodriver 0.21.0
+1534064506281	geckodriver	INFO	geckodriver 0.21.0
+1534064512936	geckodriver	INFO	Listening on 127.0.0.1:58000
+1534064512938	geckodriver	INFO	Listening on 127.0.0.1:58251
+1534064507353	geckodriver	INFO	geckodriver 0.21.0
+1534064507357	geckodriver	INFO	geckodriver 0.21.0
+1534064507569	geckodriver	INFO	geckodriver 0.21.0
+1534064512958	geckodriver	INFO	Listening on 127.0.0.1:58254
+1534064512959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.2rpaQ2rd7IM7"
+1534064512979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.FZgAShUm0KuZ"
+1534064512983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.cthubDksn84u"
+1534064513043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.oXlWsoyYO3qX"
+1534064513043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.YSIK9FVvTgrA"
+1534064513045	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.FpgIYGTCvOjm"
+1534064513096	geckodriver	INFO	Listening on 127.0.0.1:58273
+1534064513098	geckodriver	INFO	Listening on 127.0.0.1:57984
+1534064513100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.NvlNwJWdhMH0"
+1534064513101	geckodriver	INFO	Listening on 127.0.0.1:58258
+1534064507271	geckodriver	INFO	geckodriver 0.21.0
+1534064513125	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.2Um4jXdl4CWk"
+1534064513134	geckodriver	INFO	Listening on 127.0.0.1:58278
+1534064509077	geckodriver	INFO	geckodriver 0.21.0
+1534064513147	geckodriver	INFO	Listening on 127.0.0.1:58294
+1534064513148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.r8ceFj5UdbRY"
+1534064513158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.aDeodVhDd7Fb"
+1534064513212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.XO2umPeqxWc6"
+1534064511693	geckodriver	INFO	geckodriver 0.21.0
+1534064513627	geckodriver	INFO	Listening on 127.0.0.1:58521
+1534064514002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.t8jQVZ11HuTe"
+1534064514011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.x4ds41VsK8zI"
+1534064514044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.lRGRA0rUOFAT"
+1534064514074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.UkXwOyEAUZAN"
+1534064514673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.qgJO28Zi9r6R"
+2018-08-12 12:02:10.602 plugin-container[4198:400075] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:11.569 plugin-container[4201:400100] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:11.824 plugin-container[4200:400086] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:11.890 plugin-container[4204:400112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:12.408 plugin-container[4199:400077] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:12.455 plugin-container[4207:400154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:12.455 plugin-container[4203:400105] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:14.609 plugin-container[4208:400165] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:14.855 plugin-container[4206:400144] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x810b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:15.963 plugin-container[4209:400205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8927, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:16.051 plugin-container[4210:400310] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:18.272 plugin-container[4213:400361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:19.012 plugin-container[4215:400369] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:19.766 plugin-container[4212:400360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x840f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:20.066 plugin-container[4211:400357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:20.299 plugin-container[4216:400371] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:20.309 plugin-container[4217:400382] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:20.848 plugin-container[4214:400363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x832f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:21.069 plugin-container[4218:400428] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+2018-08-12 12:02:24.989 plugin-container[4220:400853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:24.993 plugin-container[4221:400899] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7347, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:25.094 plugin-container[4219:400522] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1534064548219	Marionette	INFO	Listening on port 58248
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+2018-08-12 12:02:28.596 plugin-container[4225:401409] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:29.166 plugin-container[4224:401369] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1534064549348	Marionette	INFO	Listening on port 57898
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+2018-08-12 12:02:30.037 plugin-container[4227:401475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:30.421 plugin-container[4226:401444] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1534064550958	Marionette	INFO	Listening on port 58001
+2018-08-12 12:02:31.486 plugin-container[4229:401511] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:31.678 plugin-container[4231:401513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+2018-08-12 12:02:32.368 plugin-container[4228:401495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1534064553208	Marionette	INFO	Listening on port 57901
+1534064553332	Marionette	INFO	Listening on port 58253
+2018-08-12 12:02:33.467 plugin-container[4230:401512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:02:33.567 plugin-container[4232:401661] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1534064553915	Marionette	INFO	Listening on port 57902
+1534064554841	Marionette	INFO	Listening on port 57724
+1534064555049	Marionette	INFO	Listening on port 57695
+2018-08-12 12:02:35.268 plugin-container[4234:401894] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8247, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1534064555659	Marionette	INFO	Listening on port 57968
+2018-08-12 12:02:36.162 plugin-container[4233:401815] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1534064556466	Marionette	INFO	Listening on port 57985
+1534064557283	Marionette	INFO	Listening on port 58252
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1534064710928	geckodriver	INFO	geckodriver 0.21.0
+1534064710928	geckodriver	INFO	geckodriver 0.21.0
+1534064710953	geckodriver	INFO	Listening on 127.0.0.1:59539
+1534064710954	geckodriver	INFO	Listening on 127.0.0.1:59538
+1534064711975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.GSWcUQg0Y4xd"
+1534064711976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.81wpau2iH0m1"
+2018-08-12 12:05:15.592 plugin-container[4278:406320] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:05:15.625 plugin-container[4277:406318] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6b0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:05:16.397 plugin-container[4280:406369] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:05:16.470 plugin-container[4279:406368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1534064717393	Marionette	INFO	Listening on port 59553
+1534064717405	Marionette	INFO	Listening on port 59552
+1534064717445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534064717471	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-12 12:05:18.097 plugin-container[4282:406591] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-12 12:05:18.263 plugin-container[4281:406587] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
