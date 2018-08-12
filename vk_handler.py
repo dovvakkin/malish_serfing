@@ -54,7 +54,7 @@ def add_to_friends(driver):
         # debug_screenshot("VK_add_to_friends_")
 
 
-def repost(driver):
+def make_repost(driver):
     driver.get("https://vk.com/wall-153733218_56")
     try:
         redirect_to_mvk(driver)

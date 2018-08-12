@@ -1,4 +1,12 @@
-from Main import bot_life
-from Log_in import VK_LOGIN, VK_PASSWORD
+from threading import Thread
 
-bot_life(VK_LOGIN, VK_PASSWORD)
+from Main import bot_life
+
+VK_LOGIN = '89258396534'
+VK_PASSWORD = 'k0zhepnin@'
+
+log = '89104696981'
+pas = 'cherep/'
+
+Thread(target=bot_life, args=(log, pas)).start()
+Thread(target=bot_life, args=(VK_LOGIN, VK_PASSWORD)).start()
